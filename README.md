@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysenurkocaak&label=Profile%20views&color=0e75b6&style=flat" alt="aysenurkocaak" /> </p>
 
-- 🌱 I’m currently learning **Data Science and AWS Cloud for Data Science**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **my graduation thesis about data science.**
 
