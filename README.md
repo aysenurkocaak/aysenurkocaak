@@ -1,7 +1,8 @@
 
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQEbiuUfZqPs_w/profile-displayphoto-shrink_400_400/B4DZPLyUqEHgAg-/0/1734290788383?e=1741824000&v=beta&t=2o3ALCoIXRvQxiz35iqpPZHuCcHIqT4qrIopaKW6B1I)
-
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px; width: 100%;">
+  <img src="https://github.com/aysenurkocaak/photo/blob/main/WhatsApp%20Image%202025-01-18%20at%2022.41.20.jpeg" alt="Resim 1" width="400">
+  <img src="https://github.com/aysenurkocaak/photo/blob/main/WhatsApp%20Image%202025-01-18%20at%2022.41.20%20(1).jpeg" alt="Resim 2" width="400">
+</div>
 
 <h1 align="center">Hi 👋, I'm Ayşenur Koçak</h1>
 <h3 align="center">A passionate Artificial Intelligence from Turkey</h3>
